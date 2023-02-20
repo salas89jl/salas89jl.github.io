@@ -1,0 +1,49 @@
+body {
+    /* background-color: greenyellow; */
+    text-align: center;
+    background-image: url(https://www.publicdomainpictures.net/pictures/130000/nahled/island-in-the-sea-1436372584iNa.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+}
+
+.title {
+color: deepskyblue;
+border-bottom: 5px; 
+border-style: ridge;
+display: flex;
+justify-content: center; 
+}
+
+.listofinstructions {
+display: flex;
+justify-content: center;
+align-items: center;
+table-layout: fixed;
+
+}
+
+#island {
+border-style: dashed;
+border-width: 5px;
+align-items: center;
+display: flex;
+justify-content: center;
+align-items: center;
+table-layout: fixed;
+background-color: rgba(0, 255, 255, 0.26);
+}
+
+h1 { 
+color: deepskyblue;
+border-bottom: 5px;
+border-style: ridge;
+}
+
+
+tr {
+border-style: dashed;
+border-width: 10px;
+align-items: center;
+}
